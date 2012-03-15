@@ -20,7 +20,6 @@ GEM
     rack-protection (1.2.0)
       rack
     rdiscount (1.6.8)
-    redcarpet (2.1.0)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     rubyzip (0.9.6.1)
@@ -43,6 +42,5 @@ DEPENDENCIES
   foreman
   heroku
   rdiscount
-  redcarpet
   sinatra
   thin
