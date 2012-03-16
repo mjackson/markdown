@@ -11,8 +11,8 @@ value of `1` they will be enabled.
     the source text.
   * <tt>:fold_lines</tt> - RedCloth compatible line folding (not used).
   * <tt>:generate_toc</tt> - Enable Table Of Contents generation
-  * <tt>:no_image</tt> - Do not output any <tt><img></tt> tags.
-  * <tt>:no_links</tt> - Do not output any <tt><a></tt> tags.
+  * <tt>:no_image</tt> - Do not output any <tt>&lt;img&gt;</tt> tags.
+  * <tt>:no_links</tt> - Do not output any <tt>&lt;a&gt;</tt> tags.
   * <tt>:no_tables</tt> - Do not output any tables.
   * <tt>:strict</tt> - Disable superscript and relaxed emphasis processing.
   * <tt>:autolink</tt> - Greedily urlify links.
