@@ -45,8 +45,8 @@ __END__
   <head>
     <title>Markdown as a Service</title>
     <style type="text/css">
-    body {font: 14px Helvetica, sans-serif;}
-    #wrapper {width: 600px; margin: 0 auto;}
+    body {font: 14px Helvetica, sans-serif;padding: 5%;}
+    #wrapper {width: 500px; margin: 0 auto;}
     </style>
   </head>
   <body>
