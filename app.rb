@@ -28,9 +28,6 @@ post '/' do
   text = text[:tempfile].read if Hash === text
   options = VALID_OPTIONS.select {|name| params[name] == '1' }
 
-  puts text.inspect
-  puts options.inspect
-
   markdown = RDiscount.new(text, *options)
 
   content_type 'text/html'
